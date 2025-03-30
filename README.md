@@ -1,1 +1,8 @@
-# DICTIONARY_C-
+# DICTIONARY_C++
+A PROGRAM ACT 1 CONVERTED TO C++
+
+STRING SEARCH;
+COUT << 
+CIN >> SEARCH
+ELSE IF()
+https://youtube.com/shorts/FPheaHKH8o4?si=FhRmpL8uThUxVplH
